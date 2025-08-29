@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Backend for Chat Scenario Platform",
   "main": "server.js",
+  "engines": {
+        "node": ">=20.19.0"
+  },
   "type": "module",
   "scripts": {
     "start": "node server.js",
